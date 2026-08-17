@@ -1,0 +1,20 @@
+# Unity 기본 생성 폴더
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# Mixamo 원본 애니메이션 (라이선스상 재배포 안 함)
+Assets/Football/Animations/
