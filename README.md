@@ -1,8 +1,8 @@
 # ⚽ Unity Football Animation Demo
 
-A playable Unity prototype exploring Humanoid animation retargeting, Blend Tree locomotion, and NavMesh-based AI — built as a portfolio piece to apply for a Unity-based gameplay/animation role (Sports Interactive / Football Manager).
+A playable Unity prototype exploring Humanoid animation retargeting, Blend Tree locomotion, and NavMesh-based AI 
 
-Unity에서 Humanoid 애니메이션 리타겟, Blend Tree 로코모션, NavMesh 기반 AI를 직접 설계/구현한 플레이 가능한 프로토타입입니다. Sports Interactive(Football Manager, Unity 기반) 지원을 위한 포트폴리오 데모로 제작했습니다.
+Unity에서 Humanoid 애니메이션 리타겟, Blend Tree 로코모션, NavMesh 기반 AI를 직접 설계/구현한 플레이 가능한 프로토타입입니다. 
 
 ---
 
