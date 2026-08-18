@@ -60,8 +60,8 @@ Unity에서 Humanoid 애니메이션 리타겟, Blend Tree 로코모션, NavMesh
 
 - Character models and animation clips (Idle, Walk, Run, Kick, Soccer Tackle, Soccer Tackle In Place, Soccer Tackle In Run, etc.) sourced from **Adobe Mixamo** (mixamo.com), used under Mixamo's free license for this portfolio demonstration.
 - Raw Mixamo assets (`Assets/Football/Animations/`) are **not redistributed** in this repository per Mixamo's license terms — only original code, scenes, and project configuration are included. To run this project locally, download the equivalent clips from mixamo.com for the "Y Bot" character and place them in `Assets/Football/Animations/`.
-- All gameplay code, Animator/Blend Tree design, and system architecture (locomotion, ball physics, NPC AI, tackle/steal system, minimap) are original work by the author.
+- All Animator/Blend Tree design, retargeting pipeline setup, animation import troubleshooting, and system design decisions (locomotion, ball physics, NPC AI, tackle/steal system, minimap) are original work by the author. Gameplay C# scripts were implemented via AI-assisted pair programming (Claude), directed, tested, and debugged by the author through iterative playtesting in the Unity Editor.
 
 - 캐릭터 모델 및 애니메이션 클립(Idle, Walk, Run, Kick, Soccer Tackle, Soccer Tackle In Place, Soccer Tackle In Run 등)은 **Adobe Mixamo**(mixamo.com)에서 제공받았으며, 포트폴리오 데모 목적으로 Mixamo 무료 라이선스 하에 사용했습니다.
 - Mixamo 원본 에셋(`Assets/Football/Animations/`)은 라이선스 정책상 이 repository에 재배포하지 않으며, 코드/씬/프로젝트 설정만 포함되어 있습니다. 로컬에서 직접 실행하려면 mixamo.com에서 "Y Bot" 캐릭터 기준으로 동일한 클립을 받아 `Assets/Football/Animations/` 경로에 넣어주세요.
-- 이동/애니메이션 시스템, 공 물리, NPC AI, 태클/스틸 시스템, 미니맵 등 모든 게임플레이 코드와 설계는 직접 제작한 오리지널 작업입니다.
+- Animator/Blend Tree 설계, 리타겟 파이프라인 구성, 애니메이션 임포트 설정 트러블슈팅, 시스템 설계(로코모션, 공 물리, NPC AI, 태클/스틸 시스템, 미니맵)는 모두 직접 진행한 오리지널 작업입니다. 게임플레이 C# 스크립트는 AI 페어 프로그래밍(Claude)으로 구현했으며, Unity 에디터에서 직접 플레이테스트하며 방향을 지시하고 디버깅했습니다.
